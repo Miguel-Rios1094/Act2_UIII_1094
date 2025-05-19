@@ -52,7 +52,7 @@ class _FitnessHomeScreenState extends State<FitnessHomeScreen> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  "Today",
+                  "Hoy",
                   style: TextStyle(
                     fontSize: 10,
                     color: Colors.black45,
@@ -101,7 +101,7 @@ class _FitnessHomeScreenState extends State<FitnessHomeScreen> {
                   Colors.deepPurple,
                   Icons.timer_sharp,
                   "Horas",
-                  "2",
+                  "2:00",
                   "Hours",
                 ),
               ],
